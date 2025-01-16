@@ -2,7 +2,7 @@
 ## Accuracy of Models Used
 
 <p> ML Model	                           Accuracy</p>
-0	Gradient Boosting Classifier	     0.974	
+<br>0	Gradient Boosting Classifier	     0.974</br>	
 1	CatBoost Classifier	               0.972	
 2	XGBoost Classifier	               0.969
 3	Multi-layer Perceptron	           0.969	
