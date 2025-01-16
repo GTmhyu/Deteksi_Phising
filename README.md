@@ -1,7 +1,7 @@
 
 ## Accuracy of Models Used
 
-ML Model	                           Accuracy	
+<p> ML Model	                           Accuracy</p>
 0	Gradient Boosting Classifier	     0.974	
 1	CatBoost Classifier	               0.972	
 2	XGBoost Classifier	               0.969
