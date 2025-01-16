@@ -12,3 +12,6 @@
 <br>7	K-Nearest Neighbors	=               0.956</br>
 <br>8	Logistic Regression =              0.934</br>
 <br>9	Naive Bayes Classifier	=           0.605</br>
+
+## UI
+https://github.com/GTmhyu/Foto/blob/main/Screenshot%202025-01-16%20133457.png
