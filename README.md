@@ -14,4 +14,5 @@
 <br>9	Naive Bayes Classifier	=           0.605</br>
 
 ## UI
-https://github.com/GTmhyu/Foto/blob/main/Screenshot%202025-01-16%20133457.png
+
+<div align="center"> <img src="https://github.com/GTmhyu/Foto/blob/main/Screenshot%202025-01-16%20133457.png"> </div>
