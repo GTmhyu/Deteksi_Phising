@@ -1,5 +1,5 @@
 
-## Accuracy of Models Used
+## Accuracy Model yang digunakan
 
 <p> ML Model	                           Accuracy</p>
 <br>0	Gradient Boosting Classifier	     0.974</br>	
