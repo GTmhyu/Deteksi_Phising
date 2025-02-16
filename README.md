@@ -15,4 +15,4 @@
 
 ## UI
 
-<div align="center"> <img src="https://github.com/GTmhyu/Foto/blob/main/Screenshot%202025-01-16%20133457.png"> </div>
+<div align="center"> <img src="https://github.com/GTmhyu/Foto/blob/main/Screenshot%202025-02-16%20091925.png"> </div>
